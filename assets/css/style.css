@@ -1,0 +1,26 @@
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+}
+/* Navbar */
+
+.carousel-item{
+    height: 100vh;
+    min-height: 100px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+.card-body {
+    color: aliceblue;
+}
+.titulo-t-1 {
+    padding: 0px 0px 10px 0px;
+}
+.tarjetas-celestitas {
+    background-color: black;
+    padding: 50px 0px 0px 45px;    
+}  
