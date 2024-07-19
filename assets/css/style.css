@@ -22,5 +22,35 @@ body {
 }
 .tarjetas-celestitas {
     background-color: black;
-    padding: 50px 0px 0px 45px;    
+    padding: 50px 0px 0px 45px;
+    border-top: 1px;
+    border-style:ridge;
+    border-color: #ffffff;
+    padding-bottom: 20px;    
 }  
+.titulo-blanco {
+    background-color: black;
+    color: white;  
+    padding: 50px 0px 50px 0px;
+}
+
+.formulario {
+    background-color: black;
+    padding: 10px 50px 50px 50px;
+
+}
+.bg-tarjetas {
+    background-color: #5DC7EC;
+    padding: 50px 0px 50px 0px;
+}
+.texto-footer {
+    padding: 5px;
+
+}
+.raya-2 {
+    padding: 40px 0px 0px 0px;
+    border-top: 1px;
+    border-style:ridge;
+    border-color: #5DC7EC;
+    padding-bottom: 10px; 
+}
