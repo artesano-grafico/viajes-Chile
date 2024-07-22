@@ -28,6 +28,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: left;
+    margin-bottom: 1rem;
   }
   .icon {
     background-color: #b3e5fc; /* Color celeste */
@@ -55,6 +56,9 @@ body {
 .fondo-qsomos {
     background-color: black;
 }
+.parrafo-1 {
+    padding: 10px 30px 30px 30px;
+}
 .row {
     display: flex;
     align-items: center;
@@ -69,15 +73,17 @@ body {
 .tarjetas-celestitas {
     background-color: black;
     padding: 50px 0px 0px 45px;
-    /* border-top: 1px;
+    border-top: 1px;
     border-style:inset;
-    border-color: #ffffff;
-    padding-bottom: 20px;     */
+    border-color: #5DC7EC;
+    padding-bottom: 10px;    
 }  
 .titulo-blanco {
     background-color: black;
     color: white;  
     padding: 50px 0px 50px 0px;
+
+
 }
 
 .formulario {
