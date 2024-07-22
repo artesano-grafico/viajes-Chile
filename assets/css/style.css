@@ -8,17 +8,20 @@ body {
 }
 /* Navbar */
 
-.carousel-item{
-    height: 100vh;
-    min-height: 100px;
-    background: no-repeat center center scroll;
-    background-size: cover;
-}
+
+#menu-burguer {
+    color:white;   
+    }
 .card-body {
     color: aliceblue;
 }
 .titulo-t-1 {
     padding: 0px 0px 10px 0px;
+#tarjetas-cont {
+    display: flex;
+    justify-content: space-around;
+    max-height: 500px;
+}    
 }
 .tarjetas-celestitas {
     background-color: black;
