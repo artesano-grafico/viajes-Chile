@@ -7,11 +7,11 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 /* Navbar */
-
-
 #menu-burguer {
     color:white;   
     }
+    
+    /* tarjetas */
 .card-body {
     color: aliceblue;
 }
@@ -21,15 +21,58 @@ body {
     display: flex;
     justify-content: space-around;
     max-height: 500px;
-}    
+}  
+
+.text-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+  }
+  .icon {
+    background-color: #b3e5fc; /* Color celeste */
+    padding: 5px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .icon i {
+    color: white;
+    font-size: 24px;
+  }
+  .text {
+    flex-grow: 1;
+  }  
 }
+/* seccion quienes somos */
+.icono-p {
+    text-align: center;
+    background-color: aqua;
+    color: white;
+}
+
+.fondo-qsomos {
+    background-color: black;
+}
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
 .tarjetas-celestitas {
     background-color: black;
     padding: 50px 0px 0px 45px;
-    border-top: 1px;
+    /* border-top: 1px;
     border-style:inset;
     border-color: #ffffff;
-    padding-bottom: 20px;    
+    padding-bottom: 20px;     */
 }  
 .titulo-blanco {
     background-color: black;
